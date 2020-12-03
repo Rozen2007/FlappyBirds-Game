@@ -2,7 +2,7 @@
 # ---------------
 ## ~ Description ~
 ### Main launguage used here is the **JavaScript**
-### For the deploy I have used Fleek (I will be mentioning fleek link in the about)
+### For the deploy I have used Fleek (I will be mentioning fleek link in About)
 
 # [Play it.](https://ipfs.fleek.co/ipfs/QmeeNv4TSGFfgF5kFYM1NyPXKHe2CQhHGyrZV94XfQsGFc/Flappy-birds/)
 # Demo
