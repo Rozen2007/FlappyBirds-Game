@@ -1,6 +1,6 @@
 # PLay Flappy-Birds 
-#---------------
-## ~Description~
+# ---------------
+## ~ Description ~
 ### Main launguage used here is the **JavaScript**
 ### For the deploy I have used Fleek (i mentioning fleek in the realeases)
 
